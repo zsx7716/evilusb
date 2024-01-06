@@ -1,4 +1,4 @@
-# evilusb
+# evilusb, badusb
 √ Supports custom writing of keyboard operation scripts and online burning  
 √ Plug and play on any device, no driver required
 
@@ -22,7 +22,7 @@
  
 9. After successful burning, the device will automatically restart and execute the application.
 
-# evilusb
+# evilusb, badusb
 √ 支持定制编写键盘操作脚本、在线烧录
 
 √ 在任何一台设备上即插即用、无需驱动
